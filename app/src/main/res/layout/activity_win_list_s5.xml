@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_win_list_s5"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dk_red"
+    tools:context="com.example.nick.androidproject2.WinListS5">
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:name="com.example.nick.androidproject2.FragmentWinList"
+        android:id="@+id/fragment" />
+</RelativeLayout>

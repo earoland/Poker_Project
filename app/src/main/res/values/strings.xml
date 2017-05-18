@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DogPoker</string>
+    <string name="Hold">Hold</string>
+    <string name="Throw">Throw</string>
+    <string name="name">Name</string>
+    <string name="royalFlush">All cards are the same suit, run in sequence A,K,Q,J,10</string>
+    <string name="straightFlush">All cards are the same suit and run in sequence</string>
+    <string name="fourOfAKind">Four cards of the same rank</string>
+    <string name="fullHouse">A pair and a three of a kind</string>
+    <string name="flush">All cards are in the same suit</string>
+    <string name="straight">All cards run in sequence</string>
+    <string name="threeOfAKind">Three cards of the same rank</string>
+    <string name="twoPair">Two pairs of cards</string>
+    <string name="pair">Two of the same cards with a rank of 10 or more</string>
+    <string name="wins">Wins</string>
+    <string name="viewhand">View Hand</string>
+    <string name="play">Play</string>
+    <string name="pname">Player Name</string>
+    <string name="enterpname">Enter Player Name</string>
+    <string name="k">OK</string>
+    <string name="menu">Menu</string>
+    <string name="deal">Deal</string>
+    <string name="bank">Bank:</string>
+    <string name="handsPlayed">Hands Played:</string>
+</resources>

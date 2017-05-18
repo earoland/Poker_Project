@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="lightPurple">#9B30FF</color>
+    <color name="red">#FF0000</color>
+    <color name="dk_red">#4c0000</color>
+    <color name="hunter_green">#124c00</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="lightGrey">#bdbdbd</color>
+    <color name="lightGrey2">#a8a8a8</color>
+</resources>
